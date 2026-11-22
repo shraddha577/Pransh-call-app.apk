@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nova AI</string>
+    <string name="subtitle_neural_hud">NEURAL COMMAND INTERFACE</string>
+    <string name="sample_ai_notice_title">Sample AI &amp; Offline Profile Mode</string>
+    <string name="sample_ai_notice_body">Live Gemini AI and Google Sign-In cloud sync require Firebase setup. Responses below are locally simulated samples while device commands and voice I/O run natively.</string>
+    <string name="google_signin_requires_firebase_title">Google Sign-In Requires Firebase</string>
+    <string name="google_signin_requires_firebase_body">Google Sign-In and cloud conversation sync require enabling Firebase in AI Studio. You can continue right now with an offline local profile to test voice commands, TTS, and device automation.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="continue_offline_profile">Continue with Local Profile</string>
+    <string name="nav_core">Core</string>
+    <string name="nav_commands">Commands</string>
+    <string name="nav_system">System</string>
+    <string name="developer_credit_title">Inspired by @pransh_official_coding</string>
+    <string name="developer_credit_channel">Visit @pransh_official on YouTube</string>
+    <string name="developer_youtube_url">https://youtube.com/@pransh_official?si=uWYpV_dCdMN5X-13</string>
+</resources>

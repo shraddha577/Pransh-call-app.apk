@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Futuristic AI voice and device-command assistant with Google Sign-In, Gemini AI Logic, voice recognition, text-to-speech, and cloud-synced history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
